@@ -13,7 +13,9 @@ export default function Home() {
         ></Image>
         <div className="flex flex-col justify-between gap-4 mb-6">
           <div className="w-[73px] h-[26px] bg-yellow rounded-md flex items-center justify-center">
-            <p className=" font-extrabold text-xs font-figtree">Learning</p>
+            <p className=" font-extrabold text-xs font-figtree text-gray-950">
+              Learning
+            </p>
           </div>
           <p className="h-[18px] text-xs font-figtree font-medium">
             Published 21 Dec 2023
