@@ -17,7 +17,7 @@ export default function Home() {
               Learning
             </p>
           </div>
-          <p className="h-[18px] text-xs font-figtree font-medium">
+          <p className="h-[18px] text-xs font-figtree font-medium text-gray-950">
             Published 21 Dec 2023
           </p>
           <h1 className="text-xl h-[30px] font-figtree font-medium text-gray-950">
