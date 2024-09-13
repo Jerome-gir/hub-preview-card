@@ -19,6 +19,7 @@ const config: Config = {
       },
       dropShadow: {
         "custom-black": "10px 5px 2px rgba(0, 0, 0, 1)", // Ombre noire
+        "custom-black-hover": "15px 5px 4px rgba(0, 0, 0, 1)", // Ombre noire hover
       },
     },
   },
